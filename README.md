@@ -1,4 +1,4 @@
-arpm
+Solutions to ARPM Exercises
 ====
 
-Solutions to ARPM 2014 Exercises
+These are selected solutions to the exercises from the Advanced Risk and Portfolio Management Bootcamp taught by Attilio Meucci.
